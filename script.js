@@ -18,7 +18,7 @@ const proyectos =[
       "precio": "120.000 $"
     },
     {
-      "imageUrl": "./assets/bar1.png",
+      "imageUrl": "./assets/bar1.jpg",
       "caracteristicas": "Di lo que necesites con nuestros letreros hechos a medida",
       "medidas": "3 paneles 60(max) * 30 cm",
       "precio": "300.000 $"
@@ -84,19 +84,19 @@ const proyectos =[
       "precio": "160.000 $"
     },
     {
-      "imageUrl": "./assets/fondo.png",
+      "imageUrl": "./assets/fondo.jpg",
       "caracteristicas": "Danos tus ideas y las hacemos realidad",
       "medidas": "xx * xx cm",
       "precio": "80.000 $"
     },
     {
-      "imageUrl": "./assets/letra3.png",
+      "imageUrl": "./assets/letra3.jpg",
       "caracteristicas": "Algo que ilumine y alegre tu cuarto",
       "medidas": "60 * 20 cm",
       "precio": "130.000 $"
     },
     {
-      "imageUrl": "./assets/goku.png",
+      "imageUrl": "./assets/goku.jpg",
       "caracteristicas": "Regala a ese amor lo que más le gusta",
       "medidas": "60 * 60 cm",
       "precio": "250.000 $"
@@ -108,13 +108,13 @@ const proyectos =[
       "precio": "120.000 $"
     },
     {
-      "imageUrl": "./assets/letra6.png",
+      "imageUrl": "./assets/letra6.jpg",
       "caracteristicas": "Sin miedo a que se dañe por el agua, aquí lo impermeabilizamos",
       "medidas": "60 * 20 cm",
       "precio": "200.000 $"
     },
     {
-      "imageUrl": "./assets/letra7.png",
+      "imageUrl": "./assets/letra7.jpg",
       "caracteristicas": "Deja que tu marca ilumine a tus clientes",
       "medidas": "60 * 20 cm",
       "precio": "200.000 $"
@@ -174,13 +174,13 @@ const proyectos =[
       "precio": "300.000 $"
     },
     {
-      "imageUrl": "./assets/mickey.png",
+      "imageUrl": "./assets/mickey.jpg",
       "caracteristicas": "No importa qué tan difícil parezca, siempre se puede hacer real",
       "medidas": "100 * 50 cm",
       "precio": "300.000 $"
     },
     {
-      "imageUrl": "./assets/navidad1.png",
+      "imageUrl": "./assets/navidad1.jpg",
       "caracteristicas": "Para que festejes la Navidad bien iluminada",
       "medidas": "50 * 40 cm",
       "precio": "180.000 $"
