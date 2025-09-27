@@ -3,7 +3,7 @@ const proyectos =[
       "imageUrl": "./assets/15_años.png",
       "caracteristicas": "Todos nuestros letreros hechos para toda ocasión y negocio",
       "medidas": "60 * 40 cm",
-      "precio": "200.000 $"
+      "precio": "180.000 $"
     },
     {
       "imageUrl": "./assets/abierto.png",
@@ -15,13 +15,13 @@ const proyectos =[
       "imageUrl": "./assets/arbol.png",
       "caracteristicas": "Iluminación de cualquier tipo de imagen decorativa",
       "medidas": "40 * 60 cm",
-      "precio": "120.000 $"
+      "precio": "100.000 $"
     },
     {
       "imageUrl": "./assets/bar1.jpg",
       "caracteristicas": "Di lo que necesites con nuestros letreros hechos a medida",
       "medidas": "3 paneles 60(max) * 30 cm",
-      "precio": "300.000 $"
+      "precio": 200.000 $"
     },
     {
       "imageUrl": "./assets/ps.png",
@@ -33,13 +33,13 @@ const proyectos =[
       "imageUrl": "./assets/bar2.jpg",
       "caracteristicas": "Di lo que quieras con nuestros letreros para tu negocio",
       "medidas": "60 * 80 cm",
-      "precio": "300.000 $"
+      "precio": "230.000 $"
     },
     {
       "imageUrl": "./assets/bar3.jpg",
       "caracteristicas": "Un lugar más iluminado es un sitio más agradable",
       "medidas": "60 * 60 cm",
-      "precio": "180.000 $"
+      "precio": "200.000 $"
     },
     {
       "imageUrl": "./assets/bomba.jpg",
@@ -51,19 +51,19 @@ const proyectos =[
       "imageUrl": "./assets/spiderman.jpg",
       "caracteristicas": "Sorprende a tu hijo o hija con un bello letrero de superhéroe",
       "medidas": "40 * 50 cm",
-      "precio": "250.000 $"
+      "precio": "180.000 $"
     },
     {
       "imageUrl": "./assets/burguer.jpg",
       "caracteristicas": "Cualquier letrero es indispensable para que tu negocio sea reconocido",
-      "medidas": "80 * 60 cm",
-      "precio": "180.000 $"
+      "medidas": "80 * 80 cm",
+      "precio": "250.000 $"
     },
     {
       "imageUrl": "./assets/burguer1.jpg",
       "caracteristicas": "Ilumina tu negocio y llama la atención de tus clientes",
       "medidas": "80 * 60 cm",
-      "precio": "260.000 $"
+      "precio": "200.000 $"
     },
     {
       "imageUrl": "./assets/cat.jpg",
@@ -86,8 +86,8 @@ const proyectos =[
     {
       "imageUrl": "./assets/fondo.jpg",
       "caracteristicas": "Danos tus ideas y las hacemos realidad",
-      "medidas": "xx * xx cm",
-      "precio": "80.000 $"
+      "medidas": "60 * 30 cm",
+      "precio": "100.000 $"
     },
     {
       "imageUrl": "./assets/letra3.jpg",
@@ -99,7 +99,7 @@ const proyectos =[
       "imageUrl": "./assets/goku.jpg",
       "caracteristicas": "Regala a ese amor lo que más le gusta",
       "medidas": "60 * 60 cm",
-      "precio": "250.000 $"
+      "precio": "200.000 $"
     },
     {
       "imageUrl": "./assets/hall1.jpg",
@@ -123,25 +123,25 @@ const proyectos =[
       "imageUrl": "./assets/hongo.png",
       "caracteristicas": "Otro pequeño regalo que puedes dar",
       "medidas": "60 * 20 cm",
-      "precio": "180.000 $"
+      "precio": "160.000 $"
     },
     {
       "imageUrl": "./assets/letra2.jpg",
       "caracteristicas": "Que siempre brille tu nombre",
       "medidas": "60 * 20 cm",
-      "precio": "140.000 $"
+      "precio": "130.000 $"
     },
     {
       "imageUrl": "./assets/yoshi.jpg",
       "caracteristicas": "Ilumina tus espacios",
       "medidas": "60 * 20 cm",
-      "precio": "250.000 $"
+      "precio": "220.000 $"
     },
     {
       "imageUrl": "./assets/link.jpg",
       "caracteristicas": "Lo que sueñes, lo hacemos realidad",
       "medidas": "60 * 20 cm",
-      "precio": "180.000 $"
+      "precio": "160.000 $"
     },
     {
       "imageUrl": "./assets/pizza.png",
@@ -153,79 +153,79 @@ const proyectos =[
       "imageUrl": "./assets/logo1.jpg",
       "caracteristicas": "Danos tu logo, tu diseño y lo iluminamos",
       "medidas": "80 * 50 cm",
-      "precio": "200.000 $"
+      "precio": "180.000 $"
     },
     {
       "imageUrl": "./assets/logo2.jpg",
       "caracteristicas": "Dilo con amor y luz",
       "medidas": "60 * 20 cm",
-      "precio": "200.000 $"
+      "precio": "130.000 $"
     },
     {
       "imageUrl": "./assets/logo3.jpg",
       "caracteristicas": "Informa a tus clientes de todo en tu negocio",
       "medidas": "50 * 30 cm",
-      "precio": "200.000 $"
+      "precio": "140.000 $"
     },
     {
       "imageUrl": "./assets/mando.jpg",
       "caracteristicas": "Llama a esos players a tu negocio",
       "medidas": "50 * 50 cm",
-      "precio": "300.000 $"
+      "precio": "160.000 $"
     },
     {
       "imageUrl": "./assets/mickey.jpg",
       "caracteristicas": "No importa qué tan difícil parezca, siempre se puede hacer real",
       "medidas": "100 * 50 cm",
-      "precio": "300.000 $"
+      "precio": "220.000 $"
     },
     {
       "imageUrl": "./assets/navidad1.jpg",
       "caracteristicas": "Para que festejes la Navidad bien iluminada",
       "medidas": "50 * 40 cm",
-      "precio": "180.000 $"
+      "precio": "130.000 $"
     },
     {
       "imageUrl": "./assets/pig.jpg",
       "caracteristicas": "Todo lo que quieras iluminar siempre se puede",
       "medidas": "60 * 40 cm",
-      "precio": "200.000 $"
+      "precio": "130.000 $"
     },
     {
       "imageUrl": "./assets/pink.jpg",
       "caracteristicas": "Claro que no falte aquella caricatura que marcó esa infancia",
       "medidas": "60 * 30 cm",
-      "precio": "220.000 $"
+      "precio": "160.000 $"
     },
     {
       "imageUrl": "./assets/piña.jpg",
       "caracteristicas": "Claro que no falte aquella caricatura que marcó esa infancia",
       "medidas": "30 * 40 cm",
-      "precio": "180.000 $"
+      "precio": "130.000 $"
     },
     {
       "imageUrl": "./assets/hall2.jpg",
       "caracteristicas": "Ilumina tus festividades favoritas",
       "medidas": "70 * 50 cm",
-      "precio": "150.000 $"
+      "precio": "160.000 $"
     },
     {
       "imageUrl": "./assets/fantasma.jpg",
       "caracteristicas": "Zona Gamer Active",
       "medidas": "50 * 50 cm",
-      "precio": "200.000 $"
+      "precio": "150.000 $"
     },
     {
       "imageUrl": "./assets/logo4.jpg",
       "caracteristicas": "Enmarca tu logo, tu nickname, tu frase favorita o palabra favorita",
       "medidas": "60 * 30 cm",
-      "precio": "160.000 $"
+      "precio": "140.000 $"
     },
     {
       "imageUrl": "./assets/logo5.jpg",
       "caracteristicas": "Zona Gamer Active",
-      "medidas": "80 * 80 cm",
-      "precio": "200.000 $"
+      "medidas": "80 * 60 cm",
+      "precio": "170.000 $"
     },
     {
       "imageUrl": "./assets/logo6.jpg",
@@ -249,7 +249,7 @@ const proyectos =[
       "imageUrl": "./assets/logo9.jpg",
       "caracteristicas": "Disfruta decorando tu zona gamer con mucha elegancia",
       "medidas": "50 * 20 cm",
-      "precio": "120.000 $"
+      "precio": "90.000 $"
     },
     {
       "imageUrl": "./assets/logo10.jpg",
@@ -261,19 +261,37 @@ const proyectos =[
       "imageUrl": "./assets/logo11.jpg",
       "caracteristicas": "Sé la envidia en tu hogar iluminado",
       "medidas": "40 * 40 cm",
-      "precio": "150.000 $"
+      "precio": "120.000 $"
     },
     {
       "imageUrl": "./assets/pig2.jpg",
       "caracteristicas": "Un bello detalle para el hogar o regalar",
       "medidas": "40 * 60 cm",
-      "precio": "180.000 $"
+      "precio": "130.000 $"
     },
     {
       "imageUrl": "./assets/control.jpg",
       "caracteristicas": "Un buen detalle para tu zona gamer",
       "medidas": "40 * 40 cm",
-      "precio": "150.000 $"
+      "precio": "110.000 $"
+    },
+    {
+      "imageUrl": "./assets/control.jpg",
+      "caracteristicas": "",
+      "medidas": "40 * 40 cm",
+      "precio": " $"
+    },
+    {
+      "imageUrl": "./assets/control.jpg",
+      "caracteristicas": "",
+      "medidas": "40 * 40 cm",
+      "precio": " $"
+    },
+    {
+      "imageUrl": "./assets/control.jpg",
+      "caracteristicas": "",
+      "medidas": "40 * 40 cm",
+      "precio": " $"
     }
   ]
   
