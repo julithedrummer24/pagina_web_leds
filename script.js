@@ -176,8 +176,8 @@ const proyectos =[
     {
       "imageUrl": "./assets/mickey.jpg",
       "caracteristicas": "No importa qué tan difícil parezca, siempre se puede hacer real",
-      "medidas": "100 * 50 cm",
-      "precio": "220.000 $"
+      "medidas": "100 * 60 cm",
+      "precio": "270.000 $"
     },
     {
       "imageUrl": "./assets/navidad1.jpg",
