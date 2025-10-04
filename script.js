@@ -21,7 +21,7 @@ const proyectos =[
       "imageUrl": "./assets/bar1.jpg",
       "caracteristicas": "Di lo que necesites con nuestros letreros hechos a medida",
       "medidas": "3 paneles 60(max) * 30 cm",
-      "precio": 200.000 $"
+      "precio": "200.000 $"
     },
     {
       "imageUrl": "./assets/ps.png",
