@@ -352,6 +352,12 @@ const proyectos = [
     "caracteristicas": "tus negocios bien iluminados",
     "medidas": "40 * 20 cm",
     "precio": "90.000 $"
+  },
+  {
+    "imageUrl": "./assets/icon.png",
+    "caracteristicas": "Proximamente Mas Ideas",
+    "medidas": "",
+    "precio": ""
   }
 ]
 
