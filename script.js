@@ -276,22 +276,82 @@ const proyectos =[
       "precio": "110.000 $"
     },
     {
-      "imageUrl": "./assets/control.jpg",
-      "caracteristicas": "",
-      "medidas": "40 * 40 cm",
-      "precio": " $"
+      "imageUrl": "./assets/boli.jpeg",
+      "caracteristicas": "Diseños en alto color",
+      "medidas": "100 * 30 cm",
+      "precio": "180.000 $"
     },
     {
-      "imageUrl": "./assets/control.jpg",
+      "imageUrl": "./assets/coffe.jpg",
       "caracteristicas": "",
-      "medidas": "40 * 40 cm",
-      "precio": " $"
+      "medidas": "40 * 36 cm",
+      "precio": "130.000 $"
     },
     {
-      "imageUrl": "./assets/control.jpg",
+      "imageUrl": "./assets/coffe 3.jpg",
       "caracteristicas": "",
+      "medidas": "32 * 42 cm",
+      "precio": "120.000 $"
+    },
+    {
+      "imageUrl": "./assets/coffe 2.jpg",
+      "caracteristicas": "",
+      "medidas": "40 * 30 cm",
+      "precio": "110.000 $"
+    },
+    {
+      "imageUrl": "./assets/baños.jpg",
+      "caracteristicas": "individualmente puede tener un costo de 130.000",
+      "medidas": "40 * 25 cm",
+      "precio": "240.000 $"
+    },
+    {
+      "imageUrl": "./assets/uñas.png",
+      "caracteristicas": "Decora tu bello negocio",
+      "medidas": "80 * 40 cm",
+      "precio": "150.000 $"
+    },
+    {
+      "imageUrl": "./assets/love.png",
+      "caracteristicas": "Dilo Con Amor",
+      "medidas": "63 * 38 cm",
+      "precio": "130.000 $"
+    },
+    {
+      "imageUrl": "./assets/love 1.jpeg",
+      "caracteristicas": "Dilo Con Amor",
+      "medidas": "90 * 40 cm",
+      "precio": "190.000 $"
+    },
+    {
+      "imageUrl": "./assets/pool.jpeg",
+      "caracteristicas": "ilumina a tu super heroe",
       "medidas": "40 * 40 cm",
-      "precio": " $"
+      "precio": "150.000 $"
+    },
+    {
+      "imageUrl": "./assets/pool 1.jpeg",
+      "caracteristicas": "ilumina a tu super heroe",
+      "medidas": "40 * 30 cm",
+      "precio": "100.000 $"
+    },
+    {
+      "imageUrl": "./assets/pool 2.jpeg",
+      "caracteristicas": "ilumina a tu super heroe",
+      "medidas": "50 * 50 cm",
+      "precio": "200.000 $"
+    },
+    {
+      "imageUrl": "./assets/hot.jpeg",
+      "caracteristicas": "ilumina lo que vendes",
+      "medidas": "40 * 20 cm",
+      "precio": "80.000 $"
+    },
+    {
+      "imageUrl": "./assets/hot 1.jpeg",
+      "caracteristicas": "tus negocios bien iluminados",
+      "medidas": "40 * 20 cm",
+      "precio": "90.000 $"
     }
   ]
   
