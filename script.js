@@ -368,7 +368,6 @@ proyectos.forEach(proyecto => {
   const detalle = document.createElement("div");
   detalle.classList.add("detalle");
   detalle.innerHTML = `
-        <p>${proyecto.caracteristicas}</p>
         <p>${proyecto.medidas}</p>
         <h1>${proyecto.precio}</h1>
     `;
