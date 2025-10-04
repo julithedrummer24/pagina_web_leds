@@ -282,19 +282,19 @@ const proyectos =[
       "precio": "180.000 $"
     },
     {
-      "imageUrl": "./assets/coffe.jpg",
+      "imageUrl": "./assets/coffe.png",
       "caracteristicas": "",
       "medidas": "40 * 36 cm",
       "precio": "130.000 $"
     },
     {
-      "imageUrl": "./assets/coffe 3.jpg",
+      "imageUrl": "./assets/coffe3.jpg",
       "caracteristicas": "",
       "medidas": "32 * 42 cm",
       "precio": "120.000 $"
     },
     {
-      "imageUrl": "./assets/coffe 2.jpg",
+      "imageUrl": "./assets/coffe2.jpg",
       "caracteristicas": "",
       "medidas": "40 * 30 cm",
       "precio": "110.000 $"
@@ -318,7 +318,7 @@ const proyectos =[
       "precio": "130.000 $"
     },
     {
-      "imageUrl": "./assets/love 1.jpeg",
+      "imageUrl": "./assets/love1.jpeg",
       "caracteristicas": "Dilo Con Amor",
       "medidas": "90 * 40 cm",
       "precio": "190.000 $"
@@ -330,13 +330,13 @@ const proyectos =[
       "precio": "150.000 $"
     },
     {
-      "imageUrl": "./assets/pool 1.jpeg",
+      "imageUrl": "./assets/pool1.jpeg",
       "caracteristicas": "ilumina a tu super heroe",
       "medidas": "40 * 30 cm",
       "precio": "100.000 $"
     },
     {
-      "imageUrl": "./assets/pool 2.jpeg",
+      "imageUrl": "./assets/pool2.jpeg",
       "caracteristicas": "ilumina a tu super heroe",
       "medidas": "50 * 50 cm",
       "precio": "200.000 $"
@@ -348,7 +348,7 @@ const proyectos =[
       "precio": "80.000 $"
     },
     {
-      "imageUrl": "./assets/hot 1.jpeg",
+      "imageUrl": "./assets/hot1.jpeg",
       "caracteristicas": "tus negocios bien iluminados",
       "medidas": "40 * 20 cm",
       "precio": "90.000 $"
