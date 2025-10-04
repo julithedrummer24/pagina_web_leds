@@ -192,15 +192,10 @@ section .proyectos {
     flex-direction: column;
     justify-content: space-between;
     text-align: center;
-    line-height: 10%;
     background: linear-gradient(transparent, rgba(235, 229, 229, 0.9));
     color: #000;
     transform: translateY(100%);
     transition: all 0.35s ease;
-}
-
-.detalle p{
-    text-transform: capitalize;
 }
 
 .card:hover .detalle {
