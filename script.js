@@ -288,13 +288,13 @@ const proyectos =[
       "precio": "130.000 $"
     },
     {
-      "imageUrl": "./assets/coffe3.jpg",
+      "imageUrl": "./assets/coffe3.png",
       "caracteristicas": "",
       "medidas": "32 * 42 cm",
       "precio": "120.000 $"
     },
     {
-      "imageUrl": "./assets/coffe2.jpg",
+      "imageUrl": "./assets/coffe2.png",
       "caracteristicas": "",
       "medidas": "40 * 30 cm",
       "precio": "110.000 $"
