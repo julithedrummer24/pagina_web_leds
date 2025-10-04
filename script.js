@@ -300,7 +300,7 @@ const proyectos = [
     "precio": "110.000 $"
   },
   {
-    "imageUrl": "./assets/baños.png",
+    "imageUrl": "./assets/banos.png",
     "caracteristicas": "individualmente puede tener un costo de 130.000",
     "medidas": "40 * 25 cm",
     "precio": "240.000 $"
