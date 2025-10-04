@@ -356,8 +356,8 @@ const proyectos = [
   {
     "imageUrl": "./assets/icon.png",
     "caracteristicas": "Proximamente Mas Ideas",
-    "medidas": "",
-    "precio": ""
+    "medidas": "0 * 0",
+    "precio": "0 $"
   }
 ]
 
