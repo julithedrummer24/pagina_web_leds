@@ -249,7 +249,7 @@ const proyectos = [
     "imageUrl": "./assets/logo9.jpg",
     "caracteristicas": "Disfruta decorando tu zona gamer con mucha elegancia",
     "medidas": "50 * 20 cm",
-    "precio": "90.000 $"
+    "precio": "80.000 $"
   },
   {
     "imageUrl": "./assets/logo10.jpg",
@@ -420,6 +420,8 @@ document.addEventListener('keydown', (e) => {
   }
 });
 
+
+// colores de card
 document.querySelectorAll('.card').forEach(card => {
   card.addEventListener('mouseenter', () => {
     const randomColor = `hsl(${Math.floor(Math.random() * 360)}, 100%, 70%)`;
